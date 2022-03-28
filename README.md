@@ -1,5 +1,3 @@
-* README.md as of v1.1
-
 # hexify-coop
 A very simple Windows application that allows users to save/modify their sm64ex-coop chat color and use it elsewhere by pasting it (such as in playernames)
 
