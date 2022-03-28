@@ -20,11 +20,11 @@ Once you accept, you should see one or two more windows in-sequence depending on
 # additional usage
 There are some additional things you can do to enhance your experience with this utility; some preferential.
 
-## preferences
+### preferences
 If you want to disable the color picker, create an empty file named `picker.config` and put it in `...\data\`.
 If you want to disable the prompts when you launch the program, create an empty file named `setup.config` and put it in `...\data\` as well.
 
-## hotkeys
+### hotkeys
 To change your color code, press `ctrl+shift+d`.
 To paste your color code anywhere (including external applications; not ingame), press `ctrl+shift+e`.
 To paste a blank color code (white) for additional formatting, press `ctrl+shift+r`.
